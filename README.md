@@ -176,3 +176,7 @@ Added new feature to optimize resource usage - ID: 8nm06oyu
 ## Update 2025-09-29 00:04:27
 Enhanced UI to improve stability - ID: az4d44jb
 
+
+## Update 2025-09-29 00:04:36
+Added configuration for better user experience - ID: 6jcwbj2s
+
